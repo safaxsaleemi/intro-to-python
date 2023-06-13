@@ -3,8 +3,11 @@
 ## Section A
 # 1. Create two variables that hold the width and height of a rectangle, work out and store the area in a third variable. 
 # Print out the string: `Rectangle of width <x> and height <y> has an area of <area>`.
+width = 23
+height = 40
+area = width * height
 
-
+print("Rectangle of width" + width + "and height" + height "has an area of " + area)
 
 # 2. Write code that prints the length of the string, 'python'.
 
